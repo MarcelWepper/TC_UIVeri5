@@ -1,0 +1,15 @@
+{
+    "cases": [{
+            "id": "tc_001",
+            "name": "Cash Flow",
+            "status": "Not tested",
+            "date": "N.A."
+        },
+        {
+            "id": "tc_002",
+            "name": "Cash Flow Headless",
+            "status": "Not tested",
+            "date": "N.A."
+        }
+    ]
+}
